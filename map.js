@@ -1,9 +1,9 @@
 {
-	1: {
-		live: {
+	'1': {
+		'live': {
 			'user.create': 'h1'
 		},
-		sandbox: {
+		'sandbox': {
 			'user.create': 'h2'
 		}
 	}
