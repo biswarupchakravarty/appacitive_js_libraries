@@ -1,0 +1,3 @@
+{
+	'user.create': 'h1'
+}
