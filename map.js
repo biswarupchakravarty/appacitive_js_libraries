@@ -1,10 +1,10 @@
 {
-	'1': {
-		'live': {
-			'user.create': 'h1'
+	"1": {
+		"live": {
+			"user.create": "h1"
 		},
-		'sandbox': {
-			'user.create': 'h2'
+		"sandbox": {
+			"user.create": "h2"
 		}
 	}
 }
