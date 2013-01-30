@@ -1,10 +1,10 @@
 {
-	"1": {
-		"live": {
-			"user.create": "h1"
+	"hub": {
+		"angrybirds": {
+			"handler1": "h1"
 		},
 		"sandbox": {
-			"user.create": "h2"
+			"handler2": "h2"
 		}
 	}
 }
